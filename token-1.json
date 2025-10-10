@@ -1,0 +1,38 @@
+{
+  "name": "Hyperswap",
+  "logoURI": "https://raw.githubusercontent.com/HyperSwap-Labs/media-kit/f8aeb4806dd18089a71b5b65bedaefc120e87a8b/PNG-SVG/Logo%20Black%20%2B%20Background%20Green.jpg",
+  "keywords": [
+    "audited",
+    "verified",
+    "lending"
+  ],
+  "tags": {
+    "stablecoin": {
+      "name": "Stablecoin",
+      "description": "Tokens that are fixed to an external asset"
+    },
+    "tokenv1": {
+      "name": "Hyperswap Token",
+      "description": "Genesis Tokens created for the Hyperswap Protocol V1"
+    }
+  },
+  "tokens": [
+    {
+      "name": "Wrapped Bitcoin",
+      "decimals": 18,
+      "symbol": "wBTC",
+      "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599",
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/7598/standard/wrapped_bitcoin_wbtc.png",
+      "tags": [
+        "tokenv1"
+      ]
+    }
+  ],
+  "timestamp": "2025-10-09T09:04:16.534Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 0
+  }
+}
